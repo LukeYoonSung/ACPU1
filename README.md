@@ -1,6 +1,7 @@
 # ACPU1
 <html>
 <head>
+  
   <meta charset="utf-8">
 </head>
 <body>
@@ -32,3 +33,4 @@
 <ol>너에 대한 한줄평: 반장보다 나은 우리반 부반장!</ol>
   </p>
 </body>
+<style>
